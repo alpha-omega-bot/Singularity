@@ -4,8 +4,6 @@
 
 > *"Shall we give forensics a little work?"*
 
-> **_This project was inspired by a very special woman to me: Mocinha ❤️_**
-
 **Singularity** is a powerful Linux Kernel Module (LKM) rootkit designed for modern 6.x kernels. It provides comprehensive stealth capabilities through advanced system call hooking via ftrace infrastructure.
 
 **Full Research Article (outdated version)**: [Singularity: A Final Boss Linux Kernel Rootkit](https://blog.kyntra.io/Singularity-A-final-boss-linux-kernel-rootkit)
